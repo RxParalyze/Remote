@@ -1,0 +1,22 @@
+{
+  "name": "remote",
+  "version": "1.0.0",
+  "description": "TV Remote that can control multiple TVs on different networks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RxParalyze/Remote.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RxParalyze/Remote/issues"
+  },
+  "homepage": "https://github.com/RxParalyze/Remote#readme",
+  "dependencies": {
+    "samsung-tv-remote": "^1.0.0"
+  }
+}
