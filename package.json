@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/RxParalyze/Remote.git"
   },
-  "author": "",
+  "author": "Phil Jorgensen",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RxParalyze/Remote/issues"
   },
   "homepage": "https://github.com/RxParalyze/Remote#readme",
   "dependencies": {
-    "samsung-tv-remote": "^1.0.0"
+    "ws": "^2.3.1"
   }
 }
