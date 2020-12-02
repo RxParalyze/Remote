@@ -17,4 +17,3 @@ config = {
     "host" : '192.168.20.27',
     "description" : "PC"
 }
-#test
