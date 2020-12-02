@@ -10,8 +10,11 @@
 config = {
     "name" : 'samsungctl',
     "id" : 'Smart Device',
-    "port" : 55000,
+    "port" : 1515,#55000
     "mac" : 'E4:7D:BD:BF:E5:0D',
+    "method": "websocket",
     "timeout" : 10,
-    "host" : '192.168.20.27'
+    "host" : '192.168.20.27',
+    "description" : "PC"
 }
+#test
